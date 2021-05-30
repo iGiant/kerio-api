@@ -1,5 +1,5 @@
 # kerio-api
-Clients Kerio API:
+Clients Kerio API (Golang):
 
 * [Admin Kerio API Connect](https://github.com/igiant/connect)
 
