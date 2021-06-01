@@ -5,4 +5,4 @@ Clients Kerio API (Golang):
 
 * [WebMail Kerio API Connect](https://github.com/igiant/webmail)
 
-* Admin Kerio API Control (soon)
+* [Admin Kerio API Control](https://github.com/igiant/control)
